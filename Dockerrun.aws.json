@@ -25,6 +25,7 @@
     {
       "name": "nginx",
       "image": "sezgi/multi-nginx",
+      "hostname": "nginx",
       "essential": true,
       "portMappings": [
         {
